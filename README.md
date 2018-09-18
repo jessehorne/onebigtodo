@@ -2,6 +2,8 @@
 
 A shared to-do list experiment with [Crystal](https://crystal-lang.org) and WebSockets.
 
+![screenshot](screenshot.png?raw=true)
+
 ## Installation
 
 TODO: Write installation instructions here
