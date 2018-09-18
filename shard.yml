@@ -1,0 +1,17 @@
+name: onebigtodo
+version: 0.1.0
+
+authors:
+  - Jesse Horne <j.horne2796@gmail.com>
+
+targets:
+  onebigtodo:
+    main: src/onebigtodo.cr
+
+dependencies:
+    kemal:
+        github: kemalcr/kemal
+
+crystal: 0.26.1
+
+license: MIT
