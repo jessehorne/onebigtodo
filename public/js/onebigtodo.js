@@ -52,7 +52,7 @@ todo_input.onkeydown = function(e) {
             return false;
         }
 
-        if (todo_input.value.length >= 100) {
+        if (todo_input.value.length > 60) {
             return false;
         }
 
