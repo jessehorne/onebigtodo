@@ -4,19 +4,27 @@ html, body {
 }
 
 #obt_messages {
-    background-color: white;
     margin-top: 10px;
+    height: 500px;
 }
 
 #obt_todo_list {
+    margin-top: 10px;
+    height: 500px;
+}
+
+.list-group-item {
+    margin: 10px;
+    padding: 5px;
+    font-size: 14px;
+    border: none;
+    border-left: 1px solid #ddd;
     background-color: white;
 }
 
 #obt_todo_list .list-group-item {
-    margin: 10px;
-    padding: 0;
-    font-size: 18px;
     border: none;
+    font-size: 18px;
 }
 
 #obt_todo_list .list-group-item i {
